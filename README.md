@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi there! I'm Mattia
+🌟 I’m a full stack developer passionate about experimentation and new technologies.
+🔧 I love working on creative programming projects.
+📚 I believe every project is an opportunity to learn something new.
 
-<!--
-**Mattia249/Mattia249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📝 About Me
+💼 Developer specializing in Java, Python, and Elixir.
+🌐 Experienced in web development and backend services.
+🚀 Constantly exploring new technologies and improving my skills.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects  
+- [BoboConfig](https://github.com/BoboLaboratories/BoboConfig) - A thread-safe YAML configuration library with reload and auto-save capabilities.
+- [LFT Lab](https://github.com/BoboLaboratories/LFT-Lab) - University project, part of the Formal Languages and Compilers course.
+- [SO Lab](https://github.com/BoboLaboratories/SO-Lab) - University project, part of the Operating Systems course.
