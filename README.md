@@ -1,12 +1,14 @@
-## 👋 Hi there! I'm Mattia
+# 👋 Hi there! I'm Mattia
 🌟 I’m a full stack developer passionate about experimentation and new technologies.
 🔧 I love working on creative programming projects.
 📚 I believe every project is an opportunity to learn something new.
+<br>
 
 ### 📝 About Me
 💼 Developer specializing in Java, Python, and Elixir.
 🌐 Experienced in web development and backend services.
 🚀 Constantly exploring new technologies and improving my skills.
+<br>
 
 ### 🚀 Featured Projects  
 - [BoboConfig](https://github.com/BoboLaboratories/BoboConfig) - A thread-safe YAML configuration library with reload and auto-save capabilities.
