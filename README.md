@@ -1,11 +1,11 @@
 # 👋 Hi there! I'm Mattia
-🌟 I’m a full stack developer passionate about experimentation and new technologies.  
+🌟 I’m a Full Stack Developer passionate about learning and experimenting with new technologies.  
 🔧 I love working on creative programming projects.  
 📚 I believe every project is an opportunity to learn something new.  
 <br>
 
 ### 📝 About Me
-💼 Developer specializing in Java, Python, and Elixir.  
+💼 Developer specializing in Java, Elixir and Python.  
 🌐 Experienced in web development and backend services.  
 🚀 Constantly exploring new technologies and improving my skills.  
 <br>
